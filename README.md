@@ -1,4 +1,5 @@
-Hi, my name is Bianca, a Software Engineer from Brazil 🇧🇷. Below you're going to find some interesting topics about me, hope you'll enjoy it! 🥰
+# Hey there 🤟
+My name is Bianca, a Software Engineer from Brazil 🇧🇷. Below you're going to find some interesting topics about me, hope you'll enjoy it! 🥰
 
 ## Engineering Stack
 **Languages**
@@ -28,5 +29,5 @@ Hi, my name is Bianca, a Software Engineer from Brazil 🇧🇷. Below you're go
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiancaCristina&show_icons=true&theme=great-gatsby" alt="BiancaCristina stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BiancaCristina&show_icons=true&theme=prussian" alt="BiancaCristina stats" />
 </p>
