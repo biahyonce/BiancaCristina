@@ -1,5 +1,5 @@
 # Hey there 🤟
-My name is Bianca, a Software Engineer from Brazil 🇧🇷 and currently working at [Zup Innovation](www.zup.com.br). Below you're going to find some interesting topics about me, hope you'll enjoy it! 🥰
+My name is Bianca, a Software Engineer from Brazil 🇧🇷 and currently working at [Zup Innovation](https://www.zup.com.br). Below you're going to find some interesting topics about me, hope you'll enjoy it! 🥰
 
 ## Engineering Stack
 **Languages**
