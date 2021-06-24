@@ -11,21 +11,20 @@ My name is Bianca, a Software Engineer from Brazil 🇧🇷 and currently workin
 **Frameworks**
 <br/>
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://miro.medium.com/max/750/1*BxLJuCCk3Rqz7f1mjYwsbQ.png" alt="Micronaut" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Clouds and DevOps**
 <br/>
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Databases**
 <br/>
 <img height="48" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**Others**
-<br/>
-<img height="48" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="GRPC" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cdn-media-1.freecodecamp.org/images/0*U14WseYPLL8tHj0V.png" alt="Raft Protocol" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://cache-site.s3.amazonaws.com/wp-content/uploads/2020/08/21150611/DybamoDB-logo.png" alt="DynamoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## GitHub Stats
 <p align="center">
