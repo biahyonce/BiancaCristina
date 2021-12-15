@@ -6,7 +6,6 @@ My name is Bianca, a Software Engineer from Brazil 🇧🇷 and currently workin
 <br/>
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Frameworks**
 <br/>
@@ -21,7 +20,6 @@ My name is Bianca, a Software Engineer from Brazil 🇧🇷 and currently workin
 
 **Databases**
 <br/>
-<img height="48" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" alt="Elasticsearch" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="48" src="https://cache-site.s3.amazonaws.com/wp-content/uploads/2020/08/21150611/DybamoDB-logo.png" alt="DynamoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
